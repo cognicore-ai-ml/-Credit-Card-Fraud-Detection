@@ -13,7 +13,7 @@ A simple **Streamlit app** is included to allow users to upload transaction data
 
 ## 📊 Dataset
 Dataset: [Kaggle Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)  
-⚠️ Note: The dataset is not included in this repository due to size and licensing restrictions. Please download it directly from Kaggle and place it in the `data/` folder.
+
 
 ---
 
