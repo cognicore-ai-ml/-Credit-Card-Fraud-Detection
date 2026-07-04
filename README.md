@@ -50,8 +50,24 @@ Upload a CSV file containing transaction data to get real-time fraud predictions
 - Add SHAP explainability to interpret model decisions.  
 - Implement real-time streaming detection for live transactions.
 
+
+## 🧠 Technologies Used
+- Python  
+- Pandas, NumPy  
+- Scikit-learn, XGBoost  
+- Streamlit  
+- Matplotlib, Seaborn
+
+
+## 📜 License
+This project is open-source and available under the MIT License.
+
 ---
 
 👨‍💻 Author
 Developed by Mohammed  Ali
 Diploma in Machine Learning with Python
+
+
+## 🌟 Acknowledgements
+Special thanks to the Kaggle community for providing the dataset and to open‑source contributors who make machine learning accessible to everyone.
