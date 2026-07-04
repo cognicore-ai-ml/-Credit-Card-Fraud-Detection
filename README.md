@@ -53,5 +53,5 @@ Upload a CSV file containing transaction data to get real-time fraud predictions
 ---
 
 👨‍💻 Author
-Developed by Mohammed  
+Developed by Mohammed  Ali
 Diploma in Machine Learning with Python
